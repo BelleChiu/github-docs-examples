@@ -59,9 +59,11 @@ NameError (undefined local variable or method `some_value' for main:Object)
 irb(main):002:0>
 ```
 > Here is an example of using a codeblock for an error that appears in bash
+When you can always provide codeblock instead of screenshot
+If you need to take a screenshot make sure 
 
+## Step 1 - How to take screenshoot
 
-## Step 2 - How to take screenshoot
 A screenshoot is when you capture a parot of your screen from your laptop, desktop, or phone.
 This is not be confused with take a photo with your phone.
 
@@ -123,6 +125,8 @@ Certainly! Here are the common hotkeys for taking screenshots on both macOS and 
 
 The exact hotkeys and methods may vary slightly depending on your Windows version, but these are the most common shortcuts for taking screenshots on macOS and Windows.
 
+![photo from your computer](assets/screenshot_from_your_computer.png)
+
 
 ## Step 3 - Use GitHub Flavored Task Markdown Lists
 
@@ -150,6 +154,7 @@ You can use the following markdown formate to create tables:
 | --- | --- | --- |
 | Cloud | `:cloud:` | :cloud: |
 | Cloud with lighting | `:cloud_with_lighting:` | 🌩️ |
+
 
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>](#external-references)
