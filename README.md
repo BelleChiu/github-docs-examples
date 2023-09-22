@@ -163,6 +163,8 @@ You can use the following markdown formate to create tables:
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>](#external-references)
 
+[Secret Window Hidden Garden](secret-window/hidden-graden.png)
+
 
 ## External References
 
