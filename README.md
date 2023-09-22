@@ -60,9 +60,27 @@ irb(main):002:0>
 ```
 > Here is an example of using a codeblock for an error that appears in bash
 
+## Step 3 - Use GitHub Flavored Task Markdown Lists
+
+Github extends Markdown to have a list where you can check off items.<sup>[1]</sup>
+
+- [x] Finish Step1
+- [ ] Finish Step2
+- [x] Finish Step3
+
+### Step 4 - Use Emojis (Optional)
+
+GitHub Flavored Markdown(GFM) supports emoji shortcodes.
+
+| Name | shortcode | Emoji |
+| --- | --- | --- |
+| Cloud | `:cloud:` | :cloud: |
+| Cloud with lighting | `:cloud_with_lighting:` | 🌩️ |
+
+
 ## References
 
-- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)<sup>1</sup>
-- [Basic writing and formatting Syntax(GitHub Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<sup>2</sup>
-
-
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+- [Basic writing and formatting Syntax(GitHub Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)<sup>[1]</sup>
+- [GFM - Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet)
