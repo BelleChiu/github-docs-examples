@@ -59,8 +59,12 @@ NameError (undefined local variable or method `some_value' for main:Object)
 irb(main):002:0>
 ```
 > Here is an example of using a codeblock for an error that appears in bash
+>
+> 
 When you can always provide codeblock instead of screenshot
-If you need to take a screenshot make sure 
+If you need to take a screenshot make sure it nots a photo from your phone
+
+>There are certain cases where its okay to take a photo with your phone. This is when you are showing something like a keyboard, which does not appear on a computer screenshots. If it render on your computer screen it should be a screenshot.
 
 ## Step 1 - How to take screenshoot
 
