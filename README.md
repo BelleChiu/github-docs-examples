@@ -60,6 +60,70 @@ irb(main):002:0>
 ```
 > Here is an example of using a codeblock for an error that appears in bash
 
+
+## Step 2 - How to take screenshoot
+A screenshoot is when you capture a parot of your screen from your laptop, desktop, or phone.
+This is not be confused with take a photo with your phone.
+
+**DON'T DO THIS**
+![a photo with your phone](assets/photo_capture_from_phone.jpg)
+
+This is what a screenshot from your computer should look like
+
+**DO THIS INSTEAD**
+
+To take screenshots on both macOS or Windows, you can use the following hotkeys:
+
+Certainly! Here are the common hotkeys for taking screenshots on both macOS and Windows:
+
+**macOS:**
+
+1. **Capture Entire Screen:**
+   - Press `Command (⌘) + Shift + 3`.
+   - The screenshot will be saved to your desktop by default.
+
+2. **Capture Selected Portion of the Screen:**
+   - Press `Command (⌘) + Shift + 4`.
+   - Drag to select the portion of the screen you want to capture.
+   - The screenshot will be saved to your desktop by default.
+
+3. **Capture a Specific Window:**
+   - Press `Command (⌘) + Shift + 4`, then press `Spacebar`.
+   - Click on the window you want to capture.
+   - The screenshot of the selected window will be saved to your desktop by default.
+
+4. **Capture the Touch Bar (on MacBook Pro with Touch Bar):**
+   - Press `Command (⌘) + Shift + 6`.
+   - The screenshot of the Touch Bar will be saved to your desktop by default.
+
+**Windows:**
+
+1. **Capture Entire Screen:**
+   - Press `PrtScn` (Print Screen) key.
+   - The screenshot will be copied to your clipboard. You can then paste it into an image editor (like Paint) and save it.
+
+2. **Capture the Active Window:**
+   - Press `Alt + PrtScn`.
+   - The screenshot of the active window will be copied to your clipboard.
+
+3. **Capture a Selected Portion of the Screen (Windows 10 and later):**
+   - Press `Windows + Shift + S`. This opens the Snip & Sketch tool.
+   - Select the area you want to capture.
+   - The screenshot will be copied to your clipboard, and you can use the Snip & Sketch tool to annotate or save it.
+
+4. **Capture a Specific Window (Windows 10 and later):**
+   - Press `Alt + PrtScn`.
+   - The screenshot of the active window will be copied to your clipboard.
+
+5. **Capture the Entire Screen and Save as a File (Windows 10 and later):**
+   - Press `Windows + Shift + S`.
+   - Select the area you want to capture.
+   - Click the "Copy" button.
+   - Open an image editor or application (like Paint or Microsoft Word) and paste (`Ctrl + V`) the screenshot. Then, you can save it.
+
+The exact hotkeys and methods may vary slightly depending on your Windows version, but these are the most common shortcuts for taking screenshots on macOS and Windows.
+
+
 ## Step 3 - Use GitHub Flavored Task Markdown Lists
 
 Github extends Markdown to have a list where you can check off items.[<sup>[1]</sup>](#external-references)
