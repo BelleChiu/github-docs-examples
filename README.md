@@ -62,7 +62,7 @@ irb(main):002:0>
 
 ## Step 3 - Use GitHub Flavored Task Markdown Lists
 
-Github extends Markdown to have a list where you can check off items.<sup>[1]</sup>
+Github extends Markdown to have a list where you can check off items.[<sup>[1]</sup>](#external-references)
 
 - [x] Finish Step1
 - [ ] Finish Step2
@@ -77,10 +77,24 @@ GitHub Flavored Markdown(GFM) supports emoji shortcodes.
 | Cloud | `:cloud:` | :cloud: |
 | Cloud with lighting | `:cloud_with_lighting:` | 🌩️ |
 
+### Step 5 - how to create a table
 
-## References
+You can use the following markdown formate to create tables: 
+
+```md
+| Name | shortcode | Emoji |
+| --- | --- | --- |
+| Cloud | `:cloud:` | :cloud: |
+| Cloud with lighting | `:cloud_with_lighting:` | 🌩️ |
+
+```
+Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>](#external-references)
+
+
+## External References
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 - [Basic writing and formatting Syntax(GitHub Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)<sup>[1]</sup>
 - [GFM - Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet)
+- [GFM - Tables (with extension)](https://github.github.com/gfm/#tables-extension-)<sup>[2]</sup>
